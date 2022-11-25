@@ -1,6 +1,6 @@
 import React from 'react';
+import logo from '../assets/logo';
 import '../styles/Banner.css';
-import logo from '../assets/logo.png';
 
 function Banner() {
   const title = '🌱 La maison jungle 🌿';
