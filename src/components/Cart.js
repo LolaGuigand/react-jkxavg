@@ -1,3 +1,4 @@
+import React from 'react';
 function Cart() {
   const monsteraPrice = 8;
   const ivyPrice = 10;
